@@ -41,16 +41,3 @@ Create a professional portfolio to showcase design thinking
 Gain foundational coding skills to enhance collaboration with development teams
 
 
-
-
-
-
-
-- Exploring Git and GitHub to support future collaboration  
-- Building a job-ready portfolio with case studies and prototypes
-
-#### 🎯 Goals
-- Transition fully into a Front-End DEV role  
-- Create a professional portfolio to showcase design thinking  
-- Strengthen collaboration with developers by understanding the code side
-
