@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Mohamed EL Refaei 👋
 
-<!--
-**MohamedELRefaei/MohamedELRefaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer and Web Admin based in Egypt.  
+Currently managing e-commerce websites and building strong design systems.  
+Focused on practical design, clean interfaces, and improving user experiences.
 
-Here are some ideas to get you started:
+#### 💼 Current Work
+- UI/UX Designer & Web Admin at Tech Shop Egypt  
+- Managing another e-commerce site based in Dubai  
+- Handling design, updates, and daily operations using OpenCart and Odoo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Skills & Tools
+- UI/UX Design: Figma, Adobe XD  
+- Web Platforms: OpenCart, Odoo     
+- Version Control: Git & GitHub (in progress)  
+- Platforms: Windows & macOS
+
+#### 📚 Ongoing Learning
+- Completing a 9-month Front-End DEV diploma    
+- Exploring Git and GitHub to support future collaboration  
+- Building a job-ready portfolio with case studies and prototypes
+
+#### 🎯 Goals
+- Transition fully into a Front-End DEV role  
+- Create a professional portfolio to showcase design thinking  
+- Strengthen collaboration with developers by understanding the code side
+
